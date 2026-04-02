@@ -2,11 +2,8 @@
 venv/
 .venv/
 
-# 音频文件（太大不上传）
-downloads/*.m4s
+# 音频文件（WAV太大不上传）
 downloads/*.wav
-downloads/*.mp3
-downloads/*.mp4
 downloads/separated/
 
 # Python缓存
@@ -18,7 +15,6 @@ __pycache__/
 build/
 develop-eggs/
 dist/
-downloads/
 eggs/
 .eggs/
 lib/
