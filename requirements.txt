@@ -1,0 +1,8 @@
+# 视频下载
+yt-dlp
+
+# 音频处理依赖（需要单独安装ffmpeg）
+# ffmpeg-python
+
+# GPT-SoVITS 依赖（需要从源码安装）
+# 参考: https://github.com/RVC-Boss/GPT-SoVITS
